@@ -17,7 +17,7 @@
 
 ### 필요 환경
 - 웹 브라우저
-- HTML/CSS/JavaScript 지식
+- HTMLL/CSS/JavaScript 지식
 
 ### 설치 방법
 
